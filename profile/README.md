@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/labHeader.png" alt="Zhao Microbiome Lab Logo" width="400"/>
+  <img src="https://raw.githubusercontent.com/zhao-microbiome-lab/.github/main/assets/labHeader.png" alt="Zhao Microbiome Lab Logo" width="400"/>
   
   [![Lab Website](https://img.shields.io/badge/Website-Lab%20Page-blue)](https://your-lab-website.edu)
   [![Twitter Follow](https://img.shields.io/twitter/follow/ZhaoMicrobiomeLab?style=social)](https://twitter.com/ZhaoMicrobiomeLab)
