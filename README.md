@@ -1,7 +1,5 @@
-# Zhao Microbiome Lab
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/865157de-ce2b-45fe-9e19-242a4c425416" alt="Zhao Microbiome Lab Logo" width="300"/>
+  <img src="../assets/labHeader.png" alt="Zhao Microbiome Lab Logo" width="300"/>
   
   [![Lab Website](https://img.shields.io/badge/Website-Lab%20Page-blue)](https://your-lab-website.edu)
   [![Twitter Follow](https://img.shields.io/twitter/follow/ZhaoMicrobiomeLab?style=social)](https://twitter.com/ZhaoMicrobiomeLab)
@@ -97,15 +95,12 @@ Our research and code are made openly available to support reproducible science:
 ## 👥 Team
 
 ### Principal Investigator
-**Dr. [First Name] Zhao**  
+**Dr. Naisi Zhao**  
 [Brief bio or research interests]  
 [📧 Email](mailto:zhao@institution.edu) | [🔗 Google Scholar](https://scholar.google.com) | [🐦 Twitter](https://twitter.com)
 
 ### Current Members
 Visit our [lab website](https://lab-website.edu/people) to meet the team!
-
-### We're Hiring!
-Interested in joining us? Check out our [open positions](https://lab-website.edu/join).
 
 ---
 
