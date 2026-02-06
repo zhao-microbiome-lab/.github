@@ -11,7 +11,7 @@
 
 ## 🧬 About Us
 
-Welcome to the Zhao Microbiome Lab! We are a computational biology research group focused on understanding the complex interactions between microbiomes and human health. Our research integrates multi-omics approaches, bioinformatics, and statistical methods to uncover the role of microbial communities in disease and wellness.
+Welcome to the Zhao Microbiome Lab! We are a hybrid cancer epidemiology and microbiome systems lab at the University of Kansas Medical Center in Kansas City, Kansas, USA.
 
 ### Research Focus
 - 🦠 **Microbiome-Host Interactions**: Investigating how microbial communities influence host physiology and immune responses
@@ -27,16 +27,15 @@ This organization contains various projects, pipelines, and tools developed by o
 
 ```
 zhao-microbiome-lab/
-├── pipelines/           # Bioinformatics analysis pipelines
-├── tools/              # Custom software and scripts
-├── publications/       # Code and data for published research
-├── tutorials/          # Educational materials and workshops
-└── resources/          # Databases, references, and documentation
+├── 16Sguild/           # Guild-based analysis pipeline for 16S rRNA sequencing data
+├── metaguild/          # Guild-based analysis pipeline for metagenomic data
+└── .github/            # Documentation file 
 ```
 
 ---
 
 ## 🔬 Key Projects
+- Develop end-to-end pipelines for guild-based analysis of microbiome data
 
 ### Featured Repositories
 
