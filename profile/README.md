@@ -30,59 +30,11 @@ zhao-microbiome-lab/
 
 ---
 
-## 🔬 Key Projects
-- Develop end-to-end pipelines for guild-based analysis of microbiome data
-
----
-
-## 📖 Publications
-
-Our research and code are made openly available to support reproducible science:
-
-1. **[Title of Recent Paper]** - *Journal Name* (2024)  
-   [📄 Paper](https://doi.org/xxx) | [💻 Code](https://github.com/zhao-microbiome-lab/paper-repo-1) | [📊 Data](https://data-link)
-
-2. **[Title of Another Paper]** - *Journal Name* (2023)  
-   [📄 Paper](https://doi.org/xxx) | [💻 Code](https://github.com/zhao-microbiome-lab/paper-repo-2) | [📊 Data](https://data-link)
-
-3. **[Title of Previous Work]** - *Journal Name* (2023)  
-   [📄 Paper](https://doi.org/xxx) | [💻 Code](https://github.com/zhao-microbiome-lab/paper-repo-3) | [📊 Data](https://data-link)
-
-*See our [full publication list](https://lab-website.edu/publications)*
-
----
-
-## 🛠️ Tools & Resources
-
-### Software Packages
-- **[ToolName1](link)**: Brief description of what it does
-- **[ToolName2](link)**: Brief description of what it does
-- **[ToolName3](link)**: Brief description of what it does
-
-### Databases
-- **Custom Reference Database**: Curated database for [specific purpose]
-- **Benchmark Datasets**: Standard datasets for method validation
-
-### Tutorials
-- [Getting Started with 16Sguild Analysis](tutorials/16Sguild-getting-started.md)
-
----
-
 ## 👥 Team
 
 ### Principal Investigator
 **Dr. Naisi Zhao**  
-[Brief bio or research interests]  
-[📧 Email](mailto:zhao@institution.edu) | [🔗 Google Scholar](https://scholar.google.com) | [🐦 Twitter](https://twitter.com)
 
-### Current Members
-Visit our [lab website](https://lab-website.edu/people) to meet the team!
-
----
-
-## 📫 Contact & Connect
-
-- **Email**: zhao@institution.edu
 ---
 
 ## 📝 Contributing
@@ -104,7 +56,7 @@ Unless otherwise specified, code in this organization is licensed under the MIT 
 ## 🙏 Acknowledgments
 
 Our work is supported by:
-- Grants here
+- HPC grant here
 
 ---
 
