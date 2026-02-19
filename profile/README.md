@@ -14,10 +14,6 @@
 Welcome to the Zhao Microbiome Lab! We are a hybrid cancer epidemiology and microbiome systems lab at the University of Kansas Medical Center in Kansas City, Kansas, USA.
 
 ### Research Focus
-- 🦠 **Microbiome-Host Interactions**: Investigating how microbial communities influence host physiology and immune responses
-- 📊 **Multi-Omics Integration**: Combining metagenomics, metatranscriptomics, and metabolomics data
-- 🧪 **Disease Biomarkers**: Identifying microbial signatures associated with complex diseases
-- 🔬 **Method Development**: Creating novel computational tools for microbiome data analysis
 
 ---
 
@@ -36,23 +32,6 @@ zhao-microbiome-lab/
 
 ## 🔬 Key Projects
 - Develop end-to-end pipelines for guild-based analysis of microbiome data
-
-### Featured Repositories
-
-#### [microbiome-analysis-pipeline](https://github.com/zhao-microbiome-lab/microbiome-analysis-pipeline)
-End-to-end pipeline for 16S rRNA and shotgun metagenomic data analysis
-- **Technologies**: Nextflow, QIIME2, Snakemake
-- **Status**: Active development
-
-#### [multi-omics-integration](https://github.com/zhao-microbiome-lab/multi-omics-integration)
-Statistical methods for integrating microbiome, metabolome, and transcriptome data
-- **Technologies**: R, Python, Bioconductor
-- **Status**: Published (PMID: XXXXXXXX)
-
-#### [microbiome-ml-toolkit](https://github.com/zhao-microbiome-lab/microbiome-ml-toolkit)
-Machine learning tools for microbiome biomarker discovery
-- **Technologies**: Python, scikit-learn, TensorFlow
-- **Status**: Beta release
 
 ---
 
@@ -85,9 +64,7 @@ Our research and code are made openly available to support reproducible science:
 - **Benchmark Datasets**: Standard datasets for method validation
 
 ### Tutorials
-- [Getting Started with Microbiome Analysis](tutorials/getting-started.md)
-- [Multi-omics Data Integration Workshop](tutorials/multi-omics-workshop.md)
-- [Machine Learning for Microbiome Data](tutorials/ml-microbiome.md)
+- [Getting Started with 16Sguild Analysis](tutorials/16Sguild-getting-started.md)
 
 ---
 
@@ -103,24 +80,9 @@ Visit our [lab website](https://lab-website.edu/people) to meet the team!
 
 ---
 
-## 🤝 Collaborations
-
-We actively collaborate with researchers worldwide. If you're interested in working together, please reach out!
-
-### Current Collaborators
-- Institution/Lab Name 1
-- Institution/Lab Name 2
-- Institution/Lab Name 3
-
----
-
 ## 📫 Contact & Connect
 
 - **Email**: zhao@institution.edu
-- **Lab Website**: https://your-lab-website.edu
-- **Twitter**: [@ZhaoMicrobiomeLab](https://twitter.com/ZhaoMicrobiomeLab)
-- **Location**: Department Name, Institution Name, City, State
-
 ---
 
 ## 📝 Contributing
@@ -142,18 +104,7 @@ Unless otherwise specified, code in this organization is licensed under the MIT 
 ## 🙏 Acknowledgments
 
 Our work is supported by:
-- National Institutes of Health (Grant #XXXXXX)
-- National Science Foundation (Grant #XXXXXX)
-- Institution Name Internal Funding
-
----
-
-## 🔗 Quick Links
-
-- [Lab Manual](https://github.com/zhao-microbiome-lab/lab-manual)
-- [Computational Resources](docs/computational-resources.md)
-- [Data Management Policy](docs/data-management.md)
-- [Reproducibility Guidelines](docs/reproducibility.md)
+- Grants here
 
 ---
 
