@@ -39,11 +39,11 @@ I am an epidemiologist and data scientist with a background in public health and
 
 **Rachel Griffard-Smith**
 
-
+Intro here.
 
 **Sarah Egan**
 
-
+Intro here.
 
 **Olivia Delmas**
 
