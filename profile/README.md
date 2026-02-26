@@ -35,6 +35,20 @@ zhao-microbiome-lab/
 ### Principal Investigator
 **Dr. Naisi Zhao**  
 
+I am an epidemiologist and data scientist with a background in public health and precision medicine. My current research integrates microbiome science, cancer epidemiology, and molecular biomarkers to understand how diet, the gut microbiome, and epigenetic regulation influence chronic disease development, particularly obesity-related cancers. Trained as a public health practitioner, I bridge population-based research with mechanistic omics science to develop prevention strategies that are both biologically grounded and socially responsive.
+
+**Rachel Griffard-Smith**
+
+
+
+**Sarah Egan**
+
+
+
+**Olivia Delmas**
+
+I am a master's student in the Biostatistics & Data Science department at KUMC. I spent a marjority of my career as a laboratory technician studying various topics from cancer immunotherapy to epigenetics to virology. 
+
 ---
 
 ## 📝 Contributing
