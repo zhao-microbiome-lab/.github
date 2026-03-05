@@ -15,6 +15,8 @@ Welcome to the Zhao Microbiome Lab! We are a hybrid cancer epidemiology and micr
 
 ### Research Focus
 
+My current research focuses on developing and applying multi-omics and statistical frameworks to elucidate the biological mechanisms linking diet, metabolism, and cancer risk. A major component of my work involves advancing the guild-based microbiome analytics, an approach that identifies stable, functionally coherent microbial groups predictive of health outcomes. In parallel, I study DNA methylation-derived immune profiles to understand how systemic inflammation mediates disease susceptibility. I also integrate advanced machine learning and artificial intelligence models for precision risk assessment, enabling individualized prediction of disease risk and response to interventions. By combining these complementary perspectives, my goal is to create precision-guided prevention strategies and biomarker-driven interventions that can be implemented in real-world community and clinical settings.
+
 ---
 
 ## 📚 Repository Structure
@@ -47,7 +49,7 @@ Intro here.
 
 **Olivia Delmas**
 
-I am a master's student in the Biostatistics & Data Science department at KUMC. I spent a marjority of my career as a laboratory technician studying various topics from cancer immunotherapy to epigenetics to virology. 
+I am a student and graduate research assistant in the Biostatistics & Data Science department at KUMC. I spent most of my career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
 
 ---
 
@@ -70,7 +72,9 @@ Unless otherwise specified, code in this organization is licensed under the MIT 
 ## 🙏 Acknowledgments
 
 Our work is supported by:
-- HPC grant here
+- University of Kansas Cancer Center (P30 CA168524)
+- Kansas Idea Network of Biomedical Research Excellence (P20 GM103418)
+- Kansas Institute for Precision Medicine (P20 GM130423)
 
 ---
 
