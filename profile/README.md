@@ -55,8 +55,7 @@ Unless otherwise specified, code in this organization is licensed under the MIT 
 
 ## 🙏 Acknowledgments
 
-Our work is supported by:
-- HPC grant here
+HPC resource is funded by the K-INBRE Data Science Core that is supported in part by the National Institute of General Medical Science award (P20 GM103418), the Biostatistics and Informatics Shared Resource, supported by the National Cancer Institute Cancer Center Support Grant (P30 CA168524), and the Kansas Institute for Precision Medicine COBRE, supported by the National Institute of General Medical Science award P20 GM130423
 
 ---
 
