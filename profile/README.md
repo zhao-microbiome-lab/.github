@@ -37,11 +37,14 @@ zhao-microbiome-lab/
 ### Principal Investigator
 **Dr. Naisi Zhao**  
 
-I am an epidemiologist and data scientist with a background in public health and precision medicine. My current research integrates microbiome science, cancer epidemiology, and molecular biomarkers to understand how diet, the gut microbiome, and epigenetic regulation influence chronic disease development, particularly obesity-related cancers. Trained as a public health practitioner, I bridge population-based research with mechanistic omics science to develop prevention strategies that are both biologically grounded and socially responsive.
+Dr. Zhao is an epidemiologist and data scientist with a background in public health and precision medicine. Her current research integrates microbiome science, cancer epidemiology, and molecular biomarkers to understand how diet, the gut microbiome, and epigenetic regulation influence chronic disease development, particularly obesity-related cancers. Trained as a public health practitioner, Dr. Zhao bridges population-based research with mechanistic omics science to develop prevention strategies that are both biologically grounded and socially responsive.
 
-**Rachel Griffard-Smith**
+**Rachel Griffard-Smith, M.S.**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachelgriffard)
+[![ORCID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3330-695X)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachelgriffard)
 
-Intro here.
+Rachel is a bioinformatician in the Department of Biostatistics & Data Science at the University of Kansas Medical Center. Her expertise spans multi-omics data analysis, and she has contributed to the field through the development of software packages designed to decontaminate microbiome data prior to analysis. A Nextflow Ambassador, Rachel brings a strong pipeline engineering perspective to the lab, currently building reproducible, scalable workflows for guild-based microbiome analysis.
 
 **Sarah Egan**
 
