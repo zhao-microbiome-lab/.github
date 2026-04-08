@@ -49,7 +49,7 @@ Intro here.
 
 **Olivia Delmas**
 
-I am a student and graduate research assistant in the Biostatistics & Data Science department at KUMC. I spent most of my career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
+Olivia is a student and graduate research assistant in the Biostatistics & Data Science department at KUMC. She spent most of her career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
 
 ---
 
