@@ -46,7 +46,7 @@ Dr. Zhao is an epidemiologist and data scientist with a background in public hea
 
 Rachel is a bioinformatician in the Department of Biostatistics & Data Science at the University of Kansas Medical Center. Her expertise spans multi-omics data analysis, and she has contributed to the field through the development of software packages designed to decontaminate microbiome data prior to analysis. A Nextflow Ambassador, Rachel brings a strong pipeline engineering perspective to the lab, currently building reproducible, scalable workflows for guild-based microbiome analysis.
 
-**Sarah Egan**
+**Sarah Egan, M.S.**
 
 Sarah is a PhD student and graduate research assistant in the Department of Biostatistics & Data Science at the University of Kansas Medical Center. She has a master's in biomedical engineering. Her current research focus combines her biomedical and statistical background to apply them to guild-based microbiome analysis.
 
