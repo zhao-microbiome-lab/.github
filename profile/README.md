@@ -50,7 +50,7 @@ Sarah is a PhD student and graduate research assistant in the Department of Bios
 
 **Olivia Delmas, M.S.**
 
-Olivia is a student and graduate research assistant in the Biostatistics & Data Science department at KUMC. She has a bachelor's in molecular biology. She spent most of her career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
+Olivia is a bioinformatician in the Biostatistics & Data Science department at KUMC. She has a bachelor's in molecular biology. She spent most of her career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
 
 ---
 
