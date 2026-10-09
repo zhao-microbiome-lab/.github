@@ -48,7 +48,7 @@ Rachel is a bioinformatician in the Department of Biostatistics & Data Science a
 
 Sarah is a PhD student and graduate research assistant in the Department of Biostatistics & Data Science at the University of Kansas Medical Center. She has a master's in biomedical engineering. Her current research focus combines her biomedical and statistical background to apply them to guild-based microbiome analysis.
 
-**Olivia Delmas**
+**Olivia Delmas, M.S.**
 
 Olivia is a student and graduate research assistant in the Biostatistics & Data Science department at KUMC. She has a bachelor's in molecular biology. She spent most of her career as a laboratory technician in various research labs studying epigenetics, immunology, and virology.
 
